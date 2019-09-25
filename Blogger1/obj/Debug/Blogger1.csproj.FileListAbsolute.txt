@@ -1,0 +1,6 @@
+/home/what-is-love/Projects/Rider/Blogger1/Blogger1/bin/Debug/Blogger1.exe
+/home/what-is-love/Projects/Rider/Blogger1/Blogger1/bin/Debug/Blogger1.pdb
+/home/what-is-love/Projects/Rider/Blogger1/Blogger1/obj/Debug/Blogger1.csprojAssemblyReference.cache
+/home/what-is-love/Projects/Rider/Blogger1/Blogger1/obj/Debug/Blogger1.csproj.CoreCompileInputs.cache
+/home/what-is-love/Projects/Rider/Blogger1/Blogger1/obj/Debug/Blogger1.exe
+/home/what-is-love/Projects/Rider/Blogger1/Blogger1/obj/Debug/Blogger1.pdb
